@@ -248,7 +248,7 @@ const LandingPage = () => {
             <span className="text-white ">IS HERE.</span>
           </h2>
           <a
-            href="https://github.com/kens1ang/AIGuardian/tree/master"
+            href="https://github.com/Cheeheng03/AIGuardian"
             className="bg-orange-300 text-black px-4 py-4 rounded-sm hover:underline w-fit mt-10 font-neue-machina font-light justify-end ml-8 sm:ml-0"
           >
             View on Github
@@ -275,11 +275,11 @@ const LandingPage = () => {
           <p>
             AIGuardian for{" "}
             <a
-              href="https://www.2024.ethkl.org/"
+              href="https://earn.superteam.fun/listings/hackathon/solana-radar-hackathon-malaysia-side-track/"
               target="_blank"
               className="text-orange-300 hover:underline"
             >
-              ETHKL2024
+              Solana Radar Malaysia 2024
             </a>
           </p>
           <p>© 2024 AIGuardian</p>
